@@ -2,10 +2,11 @@
 
 This project is a modern e-commerce application built using:
 
-- Next.js
-- Prisma
-- Stripe
-- Tailwind CSS 
+- `Next.js`
+- `Prisma`
+- `shadcn`
+- `Stripe`
+- `Tailwind CSS` 
 
 It aims to provide a seamless shopping experience with efficient server-side rendering, a robust database management system, secure payment processing, and a responsive, customizable UI.
 Table of Contents
